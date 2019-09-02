@@ -27,7 +27,7 @@ suatu obyek yang memiliki sifat yang sama dengan parent nya atau pada class nya 
 
 ### Percobaan 1
 
-Mendemostrasikan bagaimana membuat class, membuat objek kemudian mengakses method didalam class Sepeda1841727218Rizal
+Mendemostrasikan bagaimana membuat class, membuat objek kemudian mengakses method didalam class Sepeda1841727218Rizal.
 
 ![](img/percobaan1.png)
 
