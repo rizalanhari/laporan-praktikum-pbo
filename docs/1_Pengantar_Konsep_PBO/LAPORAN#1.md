@@ -60,9 +60,13 @@ SepedaGunung pada dasarnya adalah sama dengan Sepeda (memiliki gear, memiliki ke
 
 1. 
     a. Object adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour
+    
     b. Class adalah blueprint atau prototype dari objek.
+    
     c. Enkapsulasi metoda untuk mengatur struktur class dengan cara menyembunyikan alur kerja dari class tersebut
+    
     d. Inheritance konsep pemrograman dimana sebuah class dapat menurunkan variable dan method yang dimilikinya kepada class lain
+    
     e. Polimorfism suatu obyek yang memiliki sifat yang sama dengan parent nya atau pada class nya sendiri
 
 2. Class merupakan kumpulan dari fungsi-fungsi yang dibuat untuk suatu tujuan tertentu sedangkan Objek adalah pemanfaatan dari Class yang sudah siap digunakan
