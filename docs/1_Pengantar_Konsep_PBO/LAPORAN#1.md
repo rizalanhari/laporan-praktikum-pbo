@@ -69,7 +69,7 @@ SepedaGunung pada dasarnya adalah sama dengan Sepeda (memiliki gear, memiliki ke
 
 3. lebih fleksible, mudah dimodifikasi
 
-4. Merek, Kecepatan, Gear.
+4. Merek, Kecepatan, Gear
 
 5. ![](img/extend1.png)
 [Kode Program](../../src/1_Pengantar_Konsep_PBO/soal/Sepeda1841720218Rizal.java)
