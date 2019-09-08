@@ -21,8 +21,8 @@ public class BarangTugas1841720218Rizal {
         this.mDiskon=mDiskon;
     }
     
-    float hitungHargaJualRizal(){
-        return mHargaDasar-(mDiskon/100*mHargaDasar);
+    int hitungHargaJualRizal(){
+        return (int) (mHargaDasar-(mDiskon/100*mHargaDasar));
     }
     void tampilDataRizal(){
         System.out.println("Kode        : "+mKode);
