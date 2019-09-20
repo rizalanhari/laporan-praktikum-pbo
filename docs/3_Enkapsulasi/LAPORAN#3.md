@@ -34,6 +34,7 @@ Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
    Getter adalah public method dan memiliki tipe data return, yang berfungsi untuk mendapatkan nilai dari atribut private. Sedangkan setter adalah public method yang tidak memliki tipe data return, yang berfungsi untuk memanipulasi nilai dari atribut private.
 
 5. Notasi UML Class Diagram
+   
    ![NotasiUML](img/notasiUML.png)
    
     Keterangan :
