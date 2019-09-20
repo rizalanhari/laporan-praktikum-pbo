@@ -13,6 +13,42 @@ Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
 
 ## Ringkasan Materi
 
+1. Enkapsulasi
+   adalah sebuah metoda untuk mengatur struktur class dengan cara menyembunyikan alur kerja dari class tersebut (private, method setter getter).
+
+2. Konstruktor
+   Konstruktor mirip dengan method cara deklarasinya akan tetapi tidak memiliki tipe return. Dan konstruktor dieksekusi ketika instan dari objek dibuat.
+
+   Cara untuk membuat konstruktor adalah sebagai berikut:
+   * Nama konstruktor harus sama dengan nama class
+   * Konstruktor tidak memiliki tipe data return
+   * Konstruktor tidak boleh menggunakan modifier abstract, static, final, dan syncronized
+
+3. Akses Modifier
+   * private – hanya dapat diakses di dalam kelas yang sama
+   * default – hanya dapat diakses di dalam package yang sama
+   * protected – dapat diakases di luar package menggunakan subclass (membuat inheritance)
+   * public – dapat diakases dari mana saja
+
+4. Getter dan Setter
+   Getter adalah public method dan memiliki tipe data return, yang berfungsi untuk mendapatkan nilai dari atribut private. Sedangkan setter adalah public method yang tidak memliki tipe data return, yang berfungsi untuk memanipulasi nilai dari atribut private.
+
+5. Notasi UML Class Diagram
+   ![NotasiUML](img/notasiUML.png)
+   
+    Keterangan :
+   1. Class
+   2. Interface
+   3. Enumeration – adalah tipe data yang memiliki nilai atau literal yang terbatas.
+   4. Atrributes
+   5. Method
+   6.  Literals
+    
+    Notasi akses modifier pada UML class diagram adalah sebagai berikut:
+   * Tanda plus (+) untuk public
+   * Tanda pagar (#) untuk protected
+   * Tanda minus (-) untuk private
+   * Untuk default, maka tidak diberi notasi
 
 
 ## Percobaan
