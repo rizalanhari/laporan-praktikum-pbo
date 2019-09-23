@@ -233,3 +233,33 @@ info += "Penumpang: " + penumpang.info() + "\n";
 
 Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung).
 
+`Screenshot:`
+
+![Tugas](img/Tugas.png)
+
+`Kode Program:`
+
+* [Baju1841720218Rizal](../../src/4_Relasi_Class/Tugas/Baju1841720218Rizal.java)
+
+* [Celana1841720218Rizal](../../src/4_Relasi_Class/Tugas/Celana1841720218Rizal.java)
+
+* [MainTugas1841720218Rizal](../../src/4_Relasi_Class/Tugas/MainTugas1841720218Rizal.java)
+
+* [Pembeli1841720218Rizal](../../src/4_Relasi_Class/Tugas/Pembeli1841720218Rizal.java)
+
+* [Toko1841720218Rizal](../../src/4_Relasi_Class/Tugas/Toko1841720218Rizal.java)
+
+## Kesimpulan
+
+* Memahami konsep relasi kelas;
+* Mengimplementasikan relasi has‑a dalam program.
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***Rizal Anhari***
