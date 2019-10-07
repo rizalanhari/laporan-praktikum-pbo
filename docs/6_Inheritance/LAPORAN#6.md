@@ -29,11 +29,11 @@ Inheritance atau pewarisan sifat merupakan suatu cara untuk menurunkan suatu cla
 
 `Kode Program:`
 
-* [ClassA1841720218Rizal](../../src/6_inheritance/Percobaan1/ClassA1841720218Rizal.java)
+* [ClassA1841720218Rizal](../../src/6_Inheritance/Percobaan1/ClassA1841720218Rizal.java)
 
-* [ClassB1841720218Rizal](../../src/6_inheritance/Percobaan1/ClassB1841720218Rizal.java)
+* [ClassB1841720218Rizal](../../src/6_Inheritance/Percobaan1/ClassB1841720218Rizal.java)
 
-* [Percobaan11841720218Rizal](../../src/6_inheritance/Percobaan1/Percobaan11841720218Rizal.java)
+* [Percobaan11841720218Rizal](../../src/6_Inheritance/Percobaan1/Percobaan11841720218Rizal.java)
 
 `pertanyaan`
 
@@ -57,11 +57,11 @@ Inheritance atau pewarisan sifat merupakan suatu cara untuk menurunkan suatu cla
 
 `Kode Program:`
 
-* [ClassA1841720218Rizal](../../src/6_inheritance/Percobaan2/ClassA1841720218Rizal.java)
+* [ClassA1841720218Rizal](../../src/6_Inheritance/Percobaan2/ClassA1841720218Rizal.java)
 
-* [ClassB1841720218Rizal](../../src/6_inheritance/Percobaan2/ClassB1841720218Rizal.java)
+* [ClassB1841720218Rizal](../../src/6_Inheritance/Percobaan2/ClassB1841720218Rizal.java)
 
-* [Percobaan21841720218Rizal](../../src/6_inheritance/Percobaan2/Percobaan21841720218Rizal.java)
+* [Percobaan21841720218Rizal](../../src/6_Inheritance/Percobaan2/Percobaan21841720218Rizal.java)
 
 `pertanyaan`
 
@@ -85,11 +85,11 @@ Inheritance atau pewarisan sifat merupakan suatu cara untuk menurunkan suatu cla
 
 `Kode Program:`
 
-* [Bangun1841720218Rizal](../../src/6_inheritance/Percobaan3/Bangun1841720218Rizal.java)
+* [Bangun1841720218Rizal](../../src/6_Inheritance/Percobaan3/Bangun1841720218Rizal.java)
 
-* [Tabung1841720218Rizal](../../src/6_inheritance/Percobaan3/Tabung1841720218Rizal.java)
+* [Tabung1841720218Rizal](../../src/6_Inheritance/Percobaan3/Tabung1841720218Rizal.java)
 
-* [Percobaan31841720218Rizal](../../src/6_inheritance/Percobaan3/Percobaan31841720218Rizal.java)
+* [Percobaan31841720218Rizal](../../src/6_Inheritance/Percobaan3/Percobaan31841720218Rizal.java)
 
 `pertanyaan`
 
@@ -123,13 +123,13 @@ Inheritance atau pewarisan sifat merupakan suatu cara untuk menurunkan suatu cla
 
 `Kode Program:`
 
-* [ClassA1841720218Rizal](../../src/6_inheritance/Percobaan4/ClassA1841720218Rizal.java)
+* [ClassA1841720218Rizal](../../src/6_Inheritance/Percobaan4/ClassA1841720218Rizal.java)
 
-* [ClassB1841720218Rizal](../../src/6_inheritance/Percobaan4/ClassB1841720218Rizal.java)
+* [ClassB1841720218Rizal](../../src/6_Inheritance/Percobaan4/ClassB1841720218Rizal.java)
 
-* [ClassC1841720218Rizal](../../src/6_inheritance/Percobaan4/ClassC1841720218Rizal.java)
+* [ClassC1841720218Rizal](../../src/6_Inheritance/Percobaan4/ClassC1841720218Rizal.java)
 
-* [Percobaan41841720218Rizal](../../src/6_inheritance/Percobaan4/Percobaan41841720218Rizal.java)
+* [Percobaan41841720218Rizal](../../src/6_Inheritance/Percobaan4/Percobaan41841720218Rizal.java)
 
 `pertanyaan`
 
@@ -180,13 +180,13 @@ Inheritance atau pewarisan sifat merupakan suatu cara untuk menurunkan suatu cla
 
 `Kode Program:`
 
-* [Karyawan1841720218Rizal](../../src/6_inheritance/Percobaan5/Karyawan1841720218Rizal.java)
+* [Karyawan1841720218Rizal](../../src/6_Inheritance/Percobaan5/Karyawan1841720218Rizal.java)
 
-* [Manager1841720218Rizal](../../src/6_inheritance/Percobaan5/Manager1841720218Rizal.java)
+* [Manager1841720218Rizal](../../src/6_Inheritance/Percobaan5/Manager1841720218Rizal.java)
 
-* [Staff1841720218Rizal](../../src/6_inheritance/Percobaan5/Staff1841720218Rizal.java)
+* [Staff1841720218Rizal](../../src/6_Inheritance/Percobaan5/Staff1841720218Rizal.java)
 
-* [Inheritance11841720218Rizal](../../src/6_inheritance/Percobaan5/Inheritance11841720218Rizal.java)
+* [Inheritance11841720218Rizal](../../src/6_Inheritance/Percobaan5/Inheritance11841720218Rizal.java)
 
 `pertanyaan`
 
@@ -234,17 +234,17 @@ Inheritance atau pewarisan sifat merupakan suatu cara untuk menurunkan suatu cla
 
 `Kode Program:`
 
-* [Karyawan1841720218Rizal](../../src/6_inheritance/Percobaan6/Karyawan1841720218Rizal.java)
+* [Karyawan1841720218Rizal](../../src/6_Inheritance/Percobaan6/Karyawan1841720218Rizal.java)
 
-* [Manager1841720218Rizal](../../src/6_inheritance/Percobaan6/Manager1841720218Rizal.java)
+* [Manager1841720218Rizal](../../src/6_Inheritance/Percobaan6/Manager1841720218Rizal.java)
 
-* [Staff1841720218Rizal](../../src/6_inheritance/Percobaan6/Staff1841720218Rizal.java)
+* [Staff1841720218Rizal](../../src/6_Inheritance/Percobaan6/Staff1841720218Rizal.java)
 
-* [StaffHarian1841720218Rizal](../../src/6_inheritance/Percobaan6/StaffHarian1841720218Rizal.java)
+* [StaffHarian1841720218Rizal](../../src/6_Inheritance/Percobaan6/StaffHarian1841720218Rizal.java)
 
-* [StaffTetap1841720218Rizal](../../src/6_inheritance/Percobaan6/StaffTetap1841720218Rizal.java)
+* [StaffTetap1841720218Rizal](../../src/6_Inheritance/Percobaan6/StaffTetap1841720218Rizal.java)
 
-* [Inheritance11841720218Rizal](../../src/6_inheritance/Percobaan6/Inheritance11841720218Rizal.java)
+* [Inheritance11841720218Rizal](../../src/6_Inheritance/Percobaan6/Inheritance11841720218Rizal.java)
 
 `pertanyaan`
 
@@ -301,17 +301,17 @@ Buatlah sebuah program dengan konsep pewarisan seperti pada class diagram beriku
 
 `Kode Program:`
 
-* [Komputer1841720218Rizal](../../src/6_inheritance/Tugas/Komputer1841720218Rizal.java)
+* [Komputer1841720218Rizal](../../src/6_Inheritance/Tugas/Komputer1841720218Rizal.java)
 
-* [Laptop1841720218Rizal](../../src/6_inheritance/Tugas/Laptop1841720218Rizal.java)
+* [Laptop1841720218Rizal](../../src/6_Inheritance/Tugas/Laptop1841720218Rizal.java)
 
-* [Pc1841720218Rizal](../../src/6_inheritance/Tugas/Pc1841720218Rizal.java)
+* [Pc1841720218Rizal](../../src/6_Inheritance/Tugas/Pc1841720218Rizal.java)
 
-* [Mac1841720218Rizal](../../src/6_inheritance/Tugas/Mac1841720218Rizal.java)
+* [Mac1841720218Rizal](../../src/6_Inheritance/Tugas/Mac1841720218Rizal.java)
 
-* [Windows1841720218Rizal](../../src/6_inheritance/Tugas/Windows1841720218Rizal.java)
+* [Windows1841720218Rizal](../../src/6_Inheritance/Tugas/Windows1841720218Rizal.java)
 
-* [MainTugas1841720218Rizal](../../src/6_inheritance/Tugas/MainTugas1841720218Rizal.java)
+* [MainTugas1841720218Rizal](../../src/6_Inheritance/Tugas/MainTugas1841720218Rizal.java)
 
 
 ## Kesimpulan
