@@ -128,7 +128,7 @@ Implementasikan konsep overloading pada class diagram dibawah ini :
 
 `Kode Program:`
 
-* [Segetiga1841720218Rizal](../..\src\7_Overriding_dan_Overloading\Tugas1\Segetiga1841720218Rizal.java)
+* [Segetiga1841720218Rizal](../../src/7_Overriding_dan_Overloading/Tugas1/Segetiga1841720218Rizal.java)
 
 ### Tugas2
 
@@ -142,13 +142,13 @@ Implementasikan konsep overloading pada class diagram dibawah ini :
 
 `Kode Program:`
 
-* [Manusia1841720218Rizal](../..\src\7_Overriding_dan_Overloading\Tugas2\Manusia1841720218Rizal.java)
+* [Manusia1841720218Rizal](../../src/7_Overriding_dan_Overloading/Tugas2/Manusia1841720218Rizal.java)
 
-* [Dosen1841720218Rizal](../..\src\7_Overriding_dan_Overloading\Tugas2\Dosen1841720218Rizal.java)
+* [Dosen1841720218Rizal](../../src/7_Overriding_dan_Overloading/Tugas2/Dosen1841720218Rizal.java)
 
-* [Mahasiswa1841720218Rizal](../..\src\7_Overriding_dan_Overloading\Tugas2\Mahasiswa1841720218Rizal.java)
+* [Mahasiswa1841720218Rizal](../../src/7_Overriding_dan_Overloading/Tugas2/Mahasiswa1841720218Rizal.java)
 
-* [Main1841720218Rizal](../..\src\7_Overriding_dan_Overloading\Tugas2\Main1841720218Rizal.java)
+* [Main1841720218Rizal](../../src/7_Overriding_dan_Overloading/Tugas2/Main1841720218Rizal.java)
 
 
 ## Kesimpulan
