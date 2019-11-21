@@ -1,4 +1,4 @@
-# Laporan Praktikum #11 - GUI (Graphical User Interface)
+# Laporan Praktikum #11 - Java API
 
 ## Kompetensi
 
